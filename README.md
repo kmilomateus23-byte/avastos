@@ -1,7 +1,15 @@
 # ABASTO Operaciones · TDD, BDD y Calidad Ágil con Python
 
 **Universidad de Cundinamarca · Ingeniería de Software II · R2-A2-S10**
-**Grupo:** N1 · **Integrantes:** _(nombres y códigos de los estudiantes)_
+**Grupo:** N1
+
+| Integrante | Código estudiantil |
+|---|---|
+| William Camilo Mateus Rueda | _(código)_ |
+| Mateo Esteban Medina Sastoque | _(código)_ |
+| Yeisson David Tinjacá Bolívar | _(código)_ |
+
+**Repositorio:** https://github.com/kmilomateus23-byte/avastos
 
 Incremento de software para la gestión de **proveedores, cotizaciones, órdenes de compra e inventario**
 con control de acceso por roles, construido aplicando pruebas desde el primer minuto.

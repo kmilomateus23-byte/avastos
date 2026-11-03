@@ -1,15 +1,19 @@
 # Plan ágil del equipo (Grupo N1)
 
-> Completar con los datos reales del equipo. Las evidencias (capturas de Trello/Jira/Asana, Slack, reuniones) deben ser las del trabajo real del grupo.
+Grupo N1 · Ingeniería de Software II · Universidad de Cundinamarca
+
+> Las evidencias (capturas de Trello/Jira/Asana, Slack, reuniones) deben ser las del trabajo real del grupo, en `docs/evidencias/`.
 
 ## 1. Roles
 | Rol | Integrante | Responsabilidad |
 |---|---|---|
-| Product Owner | | Prioriza el backlog y acepta historias |
-| Scrum Master | | Facilita ceremonias y remueve impedimentos |
-| Desarrollo / QA | | Escribe pruebas (rojo), implementa (verde), refactoriza |
+| Product Owner | William Camilo Mateus Rueda | Prioriza el backlog y acepta historias |
+| Scrum Master | Mateo Esteban Medina Sastoque | Facilita ceremonias y remueve impedimentos |
+| Desarrollo / QA | Yeisson David Tinjacá Bolívar | Escribe pruebas (rojo), implementa (verde), refactoriza |
 
-Herramienta de seguimiento: _(Trello / Jira / Asana)_ · Comunicación: _(Slack / WhatsApp / Teams)_
+> Los tres integrantes también desarrollan y prueban; los roles de Scrum se rotan entre iteraciones. _(Ajustar si el equipo acordó otra distribución.)_
+
+Herramienta de seguimiento: _(Trello / Jira / Asana: indicar cuál usaron)_ · Comunicación: _(Slack / WhatsApp / Teams: indicar cuál usaron)_
 
 ## 2. Product Backlog (priorizado)
 | ID | Historia de usuario | Prioridad | Pruebas asociadas |
@@ -25,9 +29,9 @@ Herramienta de seguimiento: _(Trello / Jira / Asana)_ · Comunicación: _(Slack 
 ## 3. Iteraciones (Sprints)
 | Iteración | Objetivo | Historias | Resultado |
 |---|---|---|---|
-| 1 | Proveedores y roles | HU-01, HU-02, HU-07 | _(completar)_ |
-| 2 | Cotizaciones y órdenes | HU-03, HU-04 | _(completar)_ |
-| 3 | Inventario y calidad (CI, cobertura) | HU-05, HU-06 | _(completar)_ |
+| 1 | Proveedores y roles | HU-01, HU-02, HU-07 | Completada: validaciones de NIT/correo, desactivación y permisos por rol, con pruebas en verde |
+| 2 | Cotizaciones y órdenes | HU-03, HU-04 | Completada: cotizaciones sobre solicitudes abiertas y aprobación de órdenes con control de presupuesto |
+| 3 | Inventario y calidad (CI, cobertura) | HU-05, HU-06 | Completada: inventario con historial y alertas; 77 pruebas unitarias (100 % cobertura) y 50 escenarios BDD |
 
 ## 4. Definición de Hecho (DoD)
 - [ ] Escenario Gherkin escrito y aprobado por el PO
